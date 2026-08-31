@@ -1,0 +1,213 @@
+{
+  "submissions": [
+    {
+      "id": "SUB-109",
+      "fullName": "Gaurav",
+      "email": "gauravrajput9120@outlook.com",
+      "phone": "N/A",
+      "track": "Full Stack Development",
+      "experience": "Beginner",
+      "preferredLanguage": "JavaScript",
+      "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "projectIdea": "Enrolled via Student Portal Registration.",
+      "submittedAt": "Sep 1, 2026, 2:05 AM",
+      "type": "Registration"
+    },
+    {
+      "id": "SUB-108",
+      "fullName": "Gaurav Kumar",
+      "email": "gauravrajput9120@gmail.com",
+      "phone": "+919120581689",
+      "track": "Frontend Engineering",
+      "experience": "Beginner",
+      "preferredLanguage": "JavaScript",
+      "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Node.js"
+      ],
+      "projectIdea": "jj",
+      "submittedAt": "Sep 1, 2026, 2:03 AM",
+      "type": "Registration"
+    },
+    {
+      "id": "SUB-107",
+      "fullName": "Test User",
+      "email": "test99@example.com",
+      "phone": "N/A",
+      "track": "Full Stack Development",
+      "experience": "Beginner",
+      "preferredLanguage": "JavaScript",
+      "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "projectIdea": "Testing user registration",
+      "submittedAt": "Sep 1, 2026, 2:02 AM",
+      "type": "Registration"
+    },
+    {
+      "id": "SUB-106",
+      "fullName": "Rahul Sharma",
+      "email": "rahul.sharma@example.com",
+      "phone": "N/A",
+      "track": "Full Stack Development",
+      "experience": "Beginner",
+      "preferredLanguage": "JavaScript",
+      "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "projectIdea": "Developing full stack web application with secure RBAC and dynamic SSR forms.",
+      "submittedAt": "Sep 1, 2026, 2:01 AM",
+      "type": "Registration"
+    },
+    {
+      "id": "SUB-105",
+      "fullName": "Gaurav Kumar",
+      "email": "gauravrajput9120@gmail.com",
+      "phone": "+919120581689",
+      "track": "Data Science & ML",
+      "experience": "Beginner",
+      "preferredLanguage": "JavaScript",
+      "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Node.js"
+      ],
+      "projectIdea": "ioffds",
+      "submittedAt": "Sep 1, 2026, 1:52 AM",
+      "type": "Registration"
+    },
+    {
+      "id": "SUB-104",
+      "fullName": "Gaurav&#96;",
+      "email": "gauravrajput9120@gmail.com",
+      "phone": "+919120581689",
+      "track": "Data Science & ML",
+      "experience": "Intermediate",
+      "preferredLanguage": "Python",
+      "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Node.js",
+        "EJS Templates"
+      ],
+      "projectIdea": "gyklkj",
+      "submittedAt": "Sep 1, 2026, 1:51 AM",
+      "type": "Registration"
+    },
+    {
+      "id": "SUB-103",
+      "fullName": "Gaurav Rajput",
+      "email": "gauravrajput9120@gmail.com",
+      "phone": "+91 98765 43210",
+      "track": "Full Stack Development",
+      "experience": "Advanced",
+      "preferredLanguage": "JavaScript",
+      "skills": [
+        "System.Object[]"
+      ],
+      "projectIdea": "Building production-grade MVC backend architecture with persistent database, RESTful APIs, and email integration.",
+      "submittedAt": "Sep 1, 2026, 1:50 AM",
+      "type": "Registration"
+    },
+    {
+      "id": "SUB-101",
+      "fullName": "Aarav Sharma",
+      "email": "aarav.sharma@example.com",
+      "phone": "+91 98765 43210",
+      "track": "Full Stack Development",
+      "experience": "Intermediate",
+      "preferredLanguage": "JavaScript",
+      "skills": [
+        "HTML5",
+        "CSS3",
+        "Node.js",
+        "Express"
+      ],
+      "projectIdea": "An AI-powered task management dashboard with real-time SSR notifications.",
+      "submittedAt": "Sep 1, 2026, 12:30 AM",
+      "type": "Registration"
+    },
+    {
+      "id": "SUB-102",
+      "fullName": "Priya Patel",
+      "email": "priya.patel@example.com",
+      "phone": "+91 91234 56789",
+      "track": "Full Stack Development",
+      "experience": "Beginner",
+      "preferredLanguage": "Python",
+      "skills": [
+        "HTML5",
+        "JavaScript",
+        "EJS"
+      ],
+      "projectIdea": "E-commerce platform with dynamic inventory rendering and payment gateway.",
+      "submittedAt": "Sep 1, 2026, 1:00 AM",
+      "type": "Registration"
+    }
+  ],
+  "inquiries": [],
+  "pollVotes": {
+    "Fast initial page loads & SEO benefits": 14,
+    "Dynamic HTML generation on the server": 22,
+    "Secure backend data processing": 9
+  },
+  "users": [
+    {
+      "id": "USR-101",
+      "username": "admin",
+      "email": "gauravrajput9120@gmail.com",
+      "passwordHash": "$2b$10$UBQB8CzRZ0jxqwFbYJP72eHIjIaEMv564IuLlnr0.PPe4XvjpS9ku",
+      "role": "admin",
+      "fullName": "Gaurav Rajput (Super Admin)",
+      "createdAt": "Sep 1, 2026, 1:00 AM"
+    },
+    {
+      "id": "USR-102",
+      "username": "student_demo",
+      "email": "demo.student@codewithme9120.com",
+      "passwordHash": "$2b$10$I7c0E.Oo1R6W8WM/reEeHO96Q5roaC5eNdWSZtM4Wv9fQL.p1y17.",
+      "role": "student",
+      "fullName": "Demo Student",
+      "createdAt": "Sep 1, 2026, 1:00 AM"
+    },
+    {
+      "id": "USR-103",
+      "username": "rahul9120",
+      "email": "rahul.sharma@example.com",
+      "passwordHash": "$2b$10$ZzqpkI8girUlZSWGIDukS.14IKUUYRRzSiXtyXPkLqYuNQeWVF/5O",
+      "role": "student",
+      "fullName": "Rahul Sharma",
+      "createdAt": "Sep 1, 2026, 2:01 AM"
+    },
+    {
+      "id": "USR-104",
+      "username": "testuser99",
+      "email": "test99@example.com",
+      "passwordHash": "$2b$10$LfRKL4QF6QHZq8gxFCA7nOG4dZnsn92aPVCk0W5VWRxbuzPjJFJXi",
+      "role": "student",
+      "fullName": "Test User",
+      "createdAt": "Sep 1, 2026, 2:02 AM"
+    },
+    {
+      "id": "USR-105",
+      "username": "gauravraj9120",
+      "email": "gauravrajput9120@outlook.com",
+      "passwordHash": "$2b$10$sENiyfrfbsN55SUvuUlhxu4s0/WcNAyPGJJ28ZBh/II.pUHaLTcmq",
+      "role": "student",
+      "fullName": "Gaurav",
+      "createdAt": "Sep 1, 2026, 2:05 AM"
+    }
+  ]
+}
